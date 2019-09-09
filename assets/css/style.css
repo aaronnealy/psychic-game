@@ -1,0 +1,89 @@
+
+body{
+    background-image: url("../images/marble-wallpaper.jpg");
+    background-repeat: no-repeat;
+    
+}
+
+.title h1{
+    color: blue;
+    position: relative;
+    left: 33rem; top: 20px;
+    font-size: 45px;
+}
+
+.box1{
+    width:300px;
+    height: 430px;
+    border-color: black;
+    border-style: solid;
+    background-image: url("../images/blank-tarot-card-template.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    position: absolute;
+    left:5rem
+}
+
+.box1 p{
+    margin-top: 5rem;
+    text-align: center;
+    font-size: 20px;
+}
+
+.box2{
+    width:300px;
+    height: 430px;
+    border-color: black;
+    border-style: solid;
+    background-image: url("../images/blank-tarot-card-template.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    position: absolute;
+    left:25rem
+}
+
+.box2 p{
+    margin-top: 5rem;
+    text-align: center;
+    font-size: 20px;
+}
+
+.box3{
+    width:300px;
+    height: 430px;
+    border-color: black;
+    border-style: solid;
+    background-image: url("../images/blank-tarot-card-template.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    position: absolute;
+    left:45rem
+}
+
+.box3 p{
+    margin-top: 5rem;
+    text-align: center;
+    font-size: 20px;
+}
+
+.box4{
+    width:300px;
+    height: 430px;
+    border-color: black;
+    border-style: solid;
+    background-image: url("../images/blank-tarot-card-template.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    position: absolute;
+    left:65rem
+}
+
+.box4 p{
+    margin-top: 5rem;
+    text-align: center;
+    font-size: 20px;
+}

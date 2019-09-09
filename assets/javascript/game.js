@@ -24,7 +24,7 @@ var wins = 0;
                 guessCount --;
                 document.getElementById("guessesLeft").innerHTML = " Guesses Left: " + guessCount;
                 guessChoices.push(userGuess);
-                document.getElementById("guessesSF").innerHTML = " Your Guesses So Far: " + guessChoices;
+                document.getElementById("guessesSF").innerHTML = " Guesses So Far: " + guessChoices;
                 
             }
 
