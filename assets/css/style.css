@@ -8,8 +8,10 @@ body{
 .title h1{
     color: blue;
     position: relative;
-    left: 33rem; top: 20px;
+    top: 20px;
+    text-align: center;
     font-size: 45px;
+    font-family: 'Aladin', cursive;
 }
 
 .box1{
@@ -29,6 +31,7 @@ body{
     margin-top: 5rem;
     text-align: center;
     font-size: 20px;
+    font-family: 'Aladin', cursive;
 }
 
 .box2{
@@ -48,6 +51,7 @@ body{
     margin-top: 5rem;
     text-align: center;
     font-size: 20px;
+    font-family: 'Aladin', cursive;
 }
 
 .box3{
@@ -67,6 +71,7 @@ body{
     margin-top: 5rem;
     text-align: center;
     font-size: 20px;
+    font-family: 'Aladin', cursive;
 }
 
 .box4{
@@ -86,4 +91,5 @@ body{
     margin-top: 5rem;
     text-align: center;
     font-size: 20px;
+    font-family: 'Aladin', cursive;
 }
