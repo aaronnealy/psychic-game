@@ -1,8 +1,7 @@
 
 body{
     background-image: url("../images/marble-wallpaper.jpg");
-    background-repeat: no-repeat;
-    
+    background-repeat: no-repeat; 
 }
 
 .title h1{
@@ -98,4 +97,5 @@ body{
     font-family: 'Aladin', cursive;
     font-size: 25px;
     text-align: center;
+    padding-bottom: 5rem;
 }
