@@ -6,7 +6,7 @@ body{
 }
 
 .title h1{
-    color: blue;
+    color: rgb(39, 14, 114);
     position: relative;
     top: 20px;
     text-align: center;
@@ -22,7 +22,7 @@ body{
     background-image: url("../images/blank-tarot-card-template.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    color: white;
+    color: rgb(177, 132, 19);
     position: absolute;
     left:5rem
 }
@@ -42,7 +42,7 @@ body{
     background-image: url("../images/blank-tarot-card-template.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    color: white;
+    color: rgb(177, 132, 19);
     position: absolute;
     left:25rem
 }
@@ -62,7 +62,7 @@ body{
     background-image: url("../images/blank-tarot-card-template.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    color: white;
+    color: rgb(177, 132, 19);
     position: absolute;
     left:45rem
 }
@@ -82,7 +82,7 @@ body{
     background-image: url("../images/blank-tarot-card-template.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    color: white;
+    color: rgb(177, 132, 19);
     position: absolute;
     left:65rem
 }
@@ -92,4 +92,10 @@ body{
     text-align: center;
     font-size: 20px;
     font-family: 'Aladin', cursive;
+}
+
+.instructions{
+    font-family: 'Aladin', cursive;
+    font-size: 25px;
+    text-align: center;
 }
